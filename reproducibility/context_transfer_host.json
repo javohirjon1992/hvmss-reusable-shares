@@ -1,0 +1,9 @@
+{
+  "python": "3.12.14",
+  "system": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "machine": "x86_64",
+  "module_sha256": "cb9e5b90c5ad2d2548b6a696f912446606075ad06d80907f843640eb7b463e62",
+  "warmups": 3,
+  "repetitions": 21,
+  "scope": "single-process serial transfer including exact syndrome checks; interpolation cross-check outside timer"
+}

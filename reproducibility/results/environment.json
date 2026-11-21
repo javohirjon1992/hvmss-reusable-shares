@@ -1,0 +1,18 @@
+{
+  "python": "3.13.18",
+  "implementation": "CPython",
+  "platform": "Linux-6.18.44-fc-v310-x86_64-with-glibc2.39",
+  "cpu": "Intel(R) Xeon(R) Processor @ 2.30GHz",
+  "logical_cpus": 2,
+  "timer": "time.perf_counter_ns",
+  "warmups": 3,
+  "repetitions": 21,
+  "randomness": "secrets (OS CSPRNG) for protocol executions",
+  "field": "q = 2^255 - 19",
+  "hash": "SHA-256 (commitments), SHA-512 mod q (field oracle)",
+  "coincurve": "21.0.0",
+  "numpy": "2.5.3",
+  "sympy": "1.14.0",
+  "matplotlib": "3.11.2",
+  "elapsed_s": 164.9
+}

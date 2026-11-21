@@ -1,0 +1,6 @@
+{
+  "q": "2^255-19",
+  "python_flint": "0.9.0",
+  "method": "fmpz.is_prime (primality proving)",
+  "result": 1
+}

@@ -1,0 +1,5 @@
+check,instances,max_tv_distance,passed
+"RMSS view of t-1 members, salted commitments (exhaustive, q=7,n=3,t=2)",5764801,0.0,1
+Same view plus deterministic digests of honest pseudo-shares,5764801,1.0,1
+"HBV view of t-1 recipients incl. response z (exhaustive, q=7,n=4,t=3)",117649,0.0,1
+"DFR transcript bijection (subshares, full syndrome polynomials, HBV responses; q=2^255-19)",1000,,1000

@@ -1,0 +1,5 @@
+numpy>=2.0
+matplotlib>=3.9
+sympy>=1.13
+python-flint>=0.6
+coincurve>=20.0

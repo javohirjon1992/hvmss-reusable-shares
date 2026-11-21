@@ -1,0 +1,7 @@
+deviation,trials,detected
+HBV: inconsistent committed share for one member,1000,1000
+"HBV: two inconsistent shares, guessed challenge",1000,1000
+RMSS: perturbed public evaluation y_x,1000,1000
+RMSS: inconsistent pseudo-share commitment,1000,1000
+DFR: corrupt old member re-shares a wrong value,1000,1000
+DFR: corrupt new member broadcasts a false syndrome,1000,1000

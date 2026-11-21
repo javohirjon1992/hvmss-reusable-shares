@@ -1,0 +1,14 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "clock": "perf_counter_ns",
+  "warmups": 3,
+  "repetitions": 21,
+  "data_generation": "fixed identical test-only PRNG seeds",
+  "hash_challenge_cache": "none supplied",
+  "order": "fixed-seed shuffled within each pair",
+  "modules_sha256": {
+    "archived": "4640e0d0ea65225425379343497d04cf2f9b84b80da53e10b0ef8b5c893be071",
+    "specified": "c9b493da8b8966ea9599b1add2117071e394aa5a396b5904dfdb13573cac6047"
+  }
+}
